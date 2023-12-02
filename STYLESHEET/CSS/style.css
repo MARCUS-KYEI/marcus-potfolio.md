@@ -376,13 +376,11 @@ nav .fa-solid{
   .header-text p{
     font-size: 19px;
     color: #f2ff03;
-    border-radius: 10px;
+    border-radius: 12px;
     padding: 4px 3px;
-    transition: background 0.5s;
-  }
-  .header-text p:hover{
     background: #3d3d3d;
   }
+ 
   #about img{
     width: 100%;
     height: 330px;
